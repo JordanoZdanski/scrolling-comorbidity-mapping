@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JordanoZdanski/scrolling-comorbidity-mapping/blob/main/notebooks/article_c_main.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JordanoZdanski/scrolling-comorbidity-mapping/blob/main/notebooks/mappingmain.ipynb)
 
 A data science and psychology project analyzing comorbidities linked to excessive screen scrolling.
 
