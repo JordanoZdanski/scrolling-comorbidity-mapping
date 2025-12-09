@@ -1,3 +1,8 @@
+
+![Status](https://img.shields.io/badge/Status-Work_in_Progress-yellow)
+**WIP**: The latest changes have not been pushed yet. Updates coming soon.
+
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JordanoZdanski/scrolling-comorbidity-mapping/blob/main/notebooks/mappingmain.ipynb)
 
 ### Remember to commit to Github in Google Collab :)
